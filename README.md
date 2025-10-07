@@ -7,3 +7,6 @@ Já desenvolvi alguns projetos pessoais na área de dados dentro de uma institui
 
 Meu objetivo é continuar aprimorando minhas habilidades e contribuir com soluções criativas e eficientes.  
 </p>
+
+<div align="left"> 
+ <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neder-1a7737351/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a>
