@@ -9,4 +9,4 @@ Meu objetivo é continuar aprimorando minhas habilidades e contribuir com soluç
 </p>
 
 <div align="left"> 
- <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neder-1a7737351/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a>
+ <a href="https://www.linkedin.com/in/joao-victor-neder" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/> </a>
