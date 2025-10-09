@@ -5,7 +5,7 @@ Tenho 23 anos e atualmente curso <strong>Análise e Desenvolvimento de Sistemas<
 
 Já desenvolvi alguns projetos pessoais na área de dados dentro de uma instituição de pesquisa e atualmente estou trabalhando em um projeto colaborativo com alunos de Medicina Veterinária.  
 
-Meu objetivo é continuar aprimorando minhas habilidades e contribuir com soluções criativas e eficientes.  
+Meu objetivo é continuar aprimorando minhas habilidades e contribuir com soluções criativas e eficientes em problemas reais.  
 </p>
 
 <div align="left"> 
